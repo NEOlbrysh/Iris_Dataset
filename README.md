@@ -11,9 +11,12 @@ Class of Iris plant.
 
 
 ## Purpose
+
 The purpose of this project was to gain introductory exposure to Machine Learning Classification concepts along with data visualization. The project utilizes Scikit-Learn, Pandas and Data Visualization Libraries.
 
 
 ## Sources:
+
 https://archive.ics.uci.edu/ml/datasets/Iris
+
 https://www.researchgate.net/figure/Iris-data-set-There-are-three-classes-Setosa-class-is-linearly-separable-from-the-other_fig2_300643220
