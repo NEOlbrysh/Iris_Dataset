@@ -37,6 +37,9 @@ This discriminant analysis produces a simple function that, given the four measu
 The purpose of this project was to gain introductory exposure to Machine Learning Classification concepts along with data visualization. The project utilizes Scikit-Learn, Pandas and Data Visualization Libraries.
 
 
+### AWS:
+https://s3.console.aws.amazon.com/s3/buckets/neo-iris?region=us-east-2&tab=objects
+
 ## Sources:
 
 https://archive.ics.uci.edu/ml/datasets/Iris
