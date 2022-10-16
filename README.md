@@ -17,7 +17,7 @@ EDA is a technique used to analyze data using some visual Techniques.
 
 - Scatterplots use a collection of points placed displaying values from two variables. By displaying a variable in each axis, you can detect if a relationship or correlation between the two variables exists.
 
--Seaborn Jointplot creates a scatter plot with two histograms at the top and right margins of the graph by default. 
+- Seaborn Jointplot creates a scatter plot with two histograms at the top and right margins of the graph by default. 
 
 - Seaborn Heatmap
 Python seaborn heatmap is a graphical representation of 2D data. Each data value represents in a matrix and it has a special color. The main intention of Seaborn heatmap is to visualize the correlation matrix of data for feature selection to solve business problems.
